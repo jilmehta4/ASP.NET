@@ -10,3 +10,15 @@ E:\ASP.NET Core\CRUD Project\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utilit
 E:\ASP.NET Core\CRUD Project\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
 E:\ASP.NET Core\CRUD Project\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
 E:\ASP.NET Core\CRUD Project\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+E:\ASP.NET Core\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
