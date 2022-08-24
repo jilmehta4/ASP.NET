@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6kKvhXyW0xaXnKYaulYnyx49mvmG+4S07AvGU22B1lKB/PpPxbT87WaAvXGkZpvp5grNS+ZBOyM6ZkvFHAljyA==",
+  "dgSpecHash": "Mive9dcPhiTMb1OGKIhTWiKBUZjg7Kj7sC35SBqu8yoFW/rPUhYsOm+8B0qF8zuVmJID7dx+kjNvwEN54RwDAQ==",
   "success": true,
-  "projectFilePath": "E:\\ASP.NET Core\\CRUD Project\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+  "projectFilePath": "E:\\ASP.NET Core\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jil\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASP.NET Core\\CRUD Project\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectUniqueName": "E:\\ASP.NET Core\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "projectName": "BulkyBook.Models",
-      "projectPath": "E:\\ASP.NET Core\\CRUD Project\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectPath": "E:\\ASP.NET Core\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\Jil\\.nuget\\packages\\",
-      "outputPath": "E:\\ASP.NET Core\\CRUD Project\\BulkyBook.Models\\obj\\",
+      "outputPath": "E:\\ASP.NET Core\\BulkyBook\\BulkyBook.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5G/8vu1zIT4khLpnx1vWh2BfSDMY36QoDCc5Qh6kXyomUPx2hTgkvUsYkN/3Ia/2qR5Fqu1XPvjK+XlXpeVPPg==",
+  "dgSpecHash": "XuhrKoy5T5QJua5amT7a+X+//YfcShn7CTT9nT03xgbUm/thebKIR/Izqp5boHO8u1Aq37f2AcNlYgrI2v7ZfA==",
   "success": true,
-  "projectFilePath": "E:\\ASP.NET Core\\CRUD Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+  "projectFilePath": "E:\\ASP.NET Core\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
