@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ShlSJwsgFpqXdTA7H0p1ttxPjUGBrxahMUnplOC1d7s=",
+  "Hash": "BKd3xHO5ZfE/y8P4+JFTyr5NN1OPWRTaIcieyqD6ieM=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -100,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\ASP.NET Core\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\30588e64-7738-451b-81b9-90c5074fa7e2.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.NET Core\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/30588e64-7738-451b-81b9-90c5074fa7e2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\30588e64-7738-451b-81b9-90c5074fa7e2.jpg"
+    },
+    {
+      "Identity": "E:\\ASP.NET Core\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.NET Core\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "E:\\ASP.NET Core\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
