@@ -23,6 +23,6 @@ namespace BulkyBook.Models
 
         public string? PostalCode { get; set; }
 
-        public int? PhoneNumber { get; set; }
+        public string? PhoneNumber { get; set; }
     }
 }
